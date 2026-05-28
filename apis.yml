@@ -1,0 +1,32 @@
+aid: this-person-does-not-exist
+name: This Person Does not Exist
+description: "Generates real-life faces of people who do not exist"
+url: https://thispersondoesnotexist.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Test Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Test Data
+  - Public APIs
+apis:
+  - name: This Person Does not Exist
+    description: "Generates real-life faces of people who do not exist"
+    humanURL: https://thispersondoesnotexist.com
+    baseURL: https://thispersondoesnotexist.com
+    tags:
+      - Test Data
+    properties:
+      - type: Documentation
+        url: https://thispersondoesnotexist.com
+common:
+  - type: Website
+    url: https://thispersondoesnotexist.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
