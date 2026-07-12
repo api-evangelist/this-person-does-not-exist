@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://thispersondoesnotexist.com
 common:
+  - type: DomainSecurity
+    url: security/this-person-does-not-exist-domain-security.yml
   - type: Website
     url: https://thispersondoesnotexist.com
   - type: PublicAPIsListing
