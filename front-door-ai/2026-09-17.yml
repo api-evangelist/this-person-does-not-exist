@@ -1,0 +1,21 @@
+# Front Door AI Index — this-person-does-not-exist — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: this-person-does-not-exist
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: thispersondoesnotexist.com
+  final_host: thispersondoesnotexist.com
+  ownership: own
+  owner: this-person-does-not-exist
+  shares_host_with: null
+  inherited_from: null
+  verdict: parked
+  score: null
+  host_score: null
+  density: null
+  words: 17
+  tiers: null
+  ambiguous: null
+  top_terms: null
