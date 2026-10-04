@@ -39,7 +39,6 @@ apis:
   - name: This Person Does not Exist
     description: "Generates real-life faces of people who do not exist"
     humanURL: https://thispersondoesnotexist.com
-    baseURL: https://thispersondoesnotexist.com
     tags:
       - Test Data
     properties:
